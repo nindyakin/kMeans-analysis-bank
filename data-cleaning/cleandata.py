@@ -6,3 +6,4 @@ df_bankpromo.info()
 
 # Mengubah data type Account id
 df_bankpromo['ACCOUNT_ID'] = df_bankpromo['ACCOUNT_ID'].astype(str)
+
